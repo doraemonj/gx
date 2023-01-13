@@ -1,0 +1,275 @@
+tieba.baidu.com/" data-path="f?kw=">贴吧</a></li>
+<li><a href="https://zhidao.baidu.com/" data-path="search?ct=17&pn=0&tn=ikaslist&rn=10&lm=0&word=">知道</a></li>
+<li><a href="http://music.baidu.com/" data-path="search?fr=news&ie=utf-8&key=">音乐</a></li>
+<li><a href="http://image.baidu.com/" data-path="search/index?ct=201326592&cl=2&lm=-1&tn=baiduimage&istype=2&fm=&pv=&z=0&word=">图片</a></li>
+<li><a href="http://v.baidu.com/" data-path="v?ct=3019898888&ie=utf-8&s=2&word=">视频</a></li>
+<li><a href="http://map.baidu.com/" data-path="?newmap=1&ie=utf-8&s=s%26wd%3D">地图</a></li>
+<li><a href="http://wenku.baidu.com/" data-path="search?ie=utf-8&word=">文库</a></li>
+<div class="header-divider"></div>
+</ul>
+</div>
+<div id="app_tooltip_qrcode">
+<img src="//gss0.bdstatic.com/5foIcy0a2gI2n2jgoY3K/static/fisp_static/common/img/sidebar/newErweima_9fa03e0.png">
+</div>
+<div id="headerwrapper">
+<div id="header" alog-group="header" alog-alias="hunter-header-start">
+
+<table class="sbox" id="sbox" alog-group="search-box">
+<tr>
+<td class="logo">
+<div class="logo">
+<a href="http://news.baidu.com/">
+<!--[if !IE]><!--><img src="https://news-bos.cdn.bcebos.com/mvideo/log-news.png" alt="百度新闻" height="46px" width="137px"><!--<![endif]-->
+<!--[if IE 6]><img src="https://news-bos.cdn.bcebos.com/mvideo/log-news-ie6.png" alt="百度新闻" height="46px" width="137px"><![endif]-->
+<!--[if gt IE 6]><img src="https://news-bos.cdn.bcebos.com/mvideo/log-news.png" alt="百度新闻" height="46px" width="137px"><![endif]-->
+</a>
+</div>
+<div class="date"></div>
+</td>
+<td class="search">
+<table>
+<tr>
+<td class="box"><div id="sugarea"><span class="s_ipt_wr" id="s_ipt_wr"><input class="word" id="ww" name="word" size="42"  maxlength="100" tabindex="1"></span><span class="s_btn_wr"><input class="btn" id="s_btn_wr" type="button" value="百度一下" onmousedown="this.className='btn s_btn_h'" onmouseout="this.className='btn'"></span></div></td>
+<td class="help"><a href="//help.baidu.com">帮助</a></td>
+</tr>
+</table>
+<p class="search-radios">
+<input type="radio" name="tn" value="news" checked="checked" id="news">
+<label for="news" class="checked">新闻全文</label>
+<input type="radio" name="tn" value="newstitle" id="newstitle">
+<label for="newstitle" class="not-checked">新闻标题</label>
+</p>
+<input type="hidden" name="from" id="from" value="news">
+<input type="hidden" name="cl" id="cl" value="2">
+<input type="hidden" name="rn" id="rn" value="20">
+<input type="hidden" name="ct" id="ct" value="1">
+</td>
+</tr>
+</table>
+
+</div>
+
+<div id="menu" class="mod-navbar" alog-group="domestic-menu">
+<div id="channel-shanghai" class="channel-shanghai clearfix"  style="display:none" >
+<div class="menu-list">
+<ul class="clearfix">
+<li class="navitem-index "><a href="/">首页</a></li>
+<li  class="current active"><a href="/guonei">国内</a></li>
+<li ><a href="/guoji">国际</a></li>
+<li ><a href="/mil">军事</a></li>
+<li ><a href="/finance">财经</a></li>
+<li ><a href="/ent">娱乐</a></li>
+<li ><a href="/sports">体育</a></li>
+<li ><a href="/internet">互联网</a></li>
+<li ><a href="/tech">科技</a></li>
+<li ><a href="/game">游戏</a></li>
+<li ><a href="/lady">女人</a></li>
+<li ><a href="/auto">汽车</a></li>
+<li ><a href="/house">房产</a></li>
+</ul>
+</div>
+<i class="slogan"></i>
+</div>
+<div id="channel-all" class="channel-all clearfix" >
+<div class="menu-list">
+<ul class="clearfix">
+<li class="navitem-index "><a href="/">首页</a></li>
+<li  class="current active"><a href="/guonei">国内</a></li>
+<li ><a href="/guoji">国际</a></li>
+<li ><a href="/mil">军事</a></li>
+<li ><a href="/finance">财经</a></li>
+<li ><a href="/ent">娱乐</a></li>
+<li ><a href="/sports">体育</a></li>
+<li ><a href="/internet">互联网</a></li>
+<li ><a href="/tech">科技</a></li>
+<li ><a href="/game">游戏</a></li>
+<li ><a href="/lady">女人</a></li>
+<li ><a href="/auto">汽车</a></li>
+<li ><a href="/house">房产</a></li>
+</ul>
+</div>
+<i class="slogan"></i>
+</div>
+</div>
+
+</div>
+<div id="body" alog-alias="b">
+
+<script type="text/javascript">
+        void function(e,t,n,a,o,i,m){e.alogObjectName=o,e[o]=e[o]||function(){(e[o].q=e[o].q||[]).push(arguments)},e[o].l=e[o].l||+new Date,i=t.createElement(n),i.asyn=1,i.src=a,m=t.getElementsByTagName(n)[0],m.parentNode.insertBefore(i,m)}(window,document,"script","https://img.baidu.com/hunter/alog.min.js","alog");
+    </script>
+<div class="column clearfix" id="col_toparea">
+<div class="toparea-carousel" alog-group="focussports-carousel">
+<div class="imgplayer clearfix" id="imgplayer">
+<div id="imgplayer-control">
+<a href="javascript:void(0);" mon="col=carousel&pos=ctr_l&ct=1&pn=0" id="imgplayer-prev"></a>
+<a href="javascript:void(0);" mon="col=carousel&pos=ctr_r&ct=1&pn=0" id="imgplayer-next"></a>
+</div>
+<div class="imgview" id="imgView">
+<a href="javascript:void(0);" target="_blank"><img src="https://news.baidu.com/iphone/img/loading_3.gif" class="firstimg" alt=""></a>
+</div>
+<div class="imgnav-mask"></div>
+<div class="imgnav" id="imgNav">
+<a class="navbtn" index="3" mon="col=carousel&pos=dots&a=9pn=3" href="javascript:void(0);">3</a>
+<a class="navbtn" index="2" mon="col=carousel&pos=dots&a=9pn=2" href="javascript:void(0);">2</a>
+<a class="navbtn" index="1" mon="col=carousel&pos=dots&a=9pn=1" href="javascript:void(0);">1</a>
+</div>
+<div class="imgtit" id="imgTitle">
+<a href="javascript:void(0);" target="_blank"></a>
+</div>
+</div>
+</div>
+<div class="l-right-col" alog-group="log-internal-right">
+<div class="mod" id="internal-aside-video">
+<div class="hd"><h3>即时新闻<span class="dec">INSTANT NEWS</span></h3></div>
+<div class="bd">
+<div id="instant-news">
+<ul class="ulist mix-ulist">
+<li><a href="http://baijiahao.baidu.com/s?id=1746181461680294827" class="title" target="_blank" mon="col=18&pn=1">入“沪”虽晚感受学校“心”“情” 上海海洋大学</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1746180697489666450" class="title" target="_blank" mon="col=18&pn=2">喜迎二十大 奋进新征程——国家发展改革委离退休</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1746180298672266547" class="title" target="_blank" mon="col=18&pn=3">淄博高新区工委委员、管委会副主任李凯督导检查学</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1746177449131238957" class="title" target="_blank" mon="col=18&pn=4">国家发改委：近日国家将投放今年第五批中央猪肉储</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1746171208036541340" class="title" target="_blank" mon="col=18&pn=5">「喜迎二十大」“百年党史 红色贵州”28：实施</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1746168876233728164" class="title" target="_blank" mon="col=18&pn=6">克里米亚大桥上 一货运列车油罐车厢起火燃烧</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1746168313200898316" class="title" target="_blank" mon="col=18&pn=7">厦大附属翔安实验学校明年9月投用系九年一贯制学</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1746164232791231862" class="title" target="_blank" mon="col=18&pn=8">台工商届盼两岸和平，港媒：两岸的和平需要台湾各</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div><div class="column clearfix" id="col_focus" alog-group="log-focus">
+<div class="l-left-col">
+<div class="column-title" >
+<div class="column-title-border">
+<h2><span class="subtitle">焦点新闻</span><span class="cname">FOCAL NEWS</span></h2>
+</div>
+</div><div class="b-left" >
+<ul class="ulist "  >
+<li class="bold-item"><a href="http://baijiahao.baidu.com/s?id=1746175831412764162" mon="col=1&amp;a=2&pn=1" target="_blank">贵州兴义一服务区5名工作人员感染，部分区域临时静默..</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1746171679486600528" mon="col=1&amp;a=2&pn=2" target="_blank">福建任免陈武、刘珠雄职务</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1746115213761623834" mon="col=1&amp;a=2&pn=3" target="_blank">「巍巍三峡」航拍三峡库区重庆云阳县：环湖绿道扮靓幸..</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1746118140815838250" mon="col=1&amp;a=2&pn=4" target="_blank">沿着高速看贵州｜仁怀至赤水高速“一路向北 川黔携手..</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1746173629656301675" mon="col=1&amp;a=2&pn=5" target="_blank">新酒店｜长风公园繁华商圈中的国潮酒店，上海大华长风..</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1746084574040471618" mon="col=1&amp;a=2&pn=6" target="_blank">追寻历史记忆赓续红色血脉｜秘境·浚浦记忆</a></li>
+</ul>
+<ul class="ulist " >
+<li class="bold-item"><a href="http://baijiahao.baidu.com/s?id=1746073782604514437" mon="col=1&amp;a=2&pn=7" target="_blank">奋进十年·巴渝巨变 别眨眼！轨道上的重庆，时时有惊..</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1745747980921590602" mon="col=1&amp;a=2&pn=8" target="_blank">「沿着江河看贵州」一个港口的“快闪”变身｜通江达海..</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1745765610383643574" mon="col=1&amp;a=2&pn=9" target="_blank">天津这十年这样抓紧“牛鼻子”，打破“一亩三分地”…..</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1746128208544173141" mon="col=1&amp;a=2&pn=10" target="_blank">“黄金周”遇见福建宁德：自驾游、乡村游成为出游主流</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1745538854112920637" mon="col=1&amp;a=2&pn=11" target="_blank">长图｜黔西南兴义：把万峰尽收眼底，将自然囊括怀中</a></li>
+<li><a href="http://baijiahao.baidu.com/s?id=1746167841230743933" mon="col=1&amp;a=2&pn=12" target="_blank">城市里的露营体验，只是做做样子而已吗</a></li>
+</ul>
+</div>
+<div class="ilist">
+<ul>
+</ul>
+</div></div>
+<div class="l-right-col">
+<div class="mod" id="focus-aside-news">
+<div class="hd"><h3>视频新闻<span class="dec">VIDEO NEWS</span></h3>
+</div>
+<div class="bd">
+<div id="focus-videos">
+</div>
+</div>
+</div>
+</div>
+</div><ul id="goTop" class="mod-sidebar">
+<li class="item acces-sibility" data-text="辅助模式">
+<a class="assist" href="javascript:void(0);"></a>
+</li>
+<li class="acces-sibility-container">辅助模式</li>
+<li class="item roumer button-rotate" data-text="辟谣">
+<a href="http://www.piyao.org.cn/yybgt/index.htm">辟谣</a>
+</li>
+<li class="item report button-rotate" data-text="举报">
+<a href="http://report.12377.cn:13225/toreportinputNormal_anis.do">举报</a>
+</li>
+<li class="item qr-code button-rotate" data-text="二维码">
+<a href="javascript:void(0);">二维码</a>
+</li>
+<li class="qr-code-container clearfix">
+<span class="item-container left">
+<span class="img-container">
+<img src="//gss0.bdstatic.com/5foIcy0a2gI2n2jgoY3K/static/fisp_static/common/img/sidebar/newErweima_9fa03e0.png"/>
+</span>
+</span>
+<span class="item-container right">
+<p class="title">百度新闻客户端</p>
+<ul>
+<li>扫描二维码下载</li>
+<li>随时随地收看更多新闻</li>
+</ul>
+</span>
+</li>
+<li class="item favorite button-rotate" data-text="收藏本站">
+<a href="javascript:void(0);">收藏本站</a>
+</li>
+<li class="item search button-rotate" data-text="搜索">
+<a href="javascript:void(0);" id="search-btn">搜索</a>
+</li>
+<li class="item feedback button-rotate" id="feedbackbtn" data-text="用户反馈">
+<a href="javascript:void(0);">用户反馈</a>
+</li>
+<li class="item gotop">
+<a id="gotop_btn" href="javascript:void(0);" onclick="window.scroll(0, 0)"></a>
+</li>
+<li class="searchbox">
+<span class="close-btn"></span>
+<p>
+<input type="hidden" name="tn" id="tn" value="news"/>
+<input type="hidden" name="from" id="from" value="news"/>
+<input type="hidden" name="cl" id="cl" value="2"/>
+<input type="hidden" name="rn" id="rn" value="20"/>
+<input type="hidden" name="ct" id="ct" value="1"/>
+<input class="searchInput" type="text" value="输入搜索词" name="word" autocomplete="off" tabindex="1" maxlength="100"/>
+<button class="submit-btn" type="button">搜索</button>
+</p>
+</li>
+<li class="close-tip">收起<i class="arrow"></i></li>
+</ul>
+<style>
+#goTop{
+    position: fixed;
+    width: 54px;
+    left: 50%;
+    margin-left: 502px;
+    bottom: 20px;
+    _position: absolute;
+    _top: expression(eval(document.documentElement.scrollTop || document.body.scrollTop)+eval(document.documentElement.clientHeight || document.body.clientHeight)-361+'px');
+    z-index:998;
+}
+</style>
+
+</div>
+
+<div id="footerwrapper">
+<div class="bottombar" alog-group="log-footer-bottombar" alog-alias="hunter-start-bottombar">
+<div class="bottombar-inner clearfix">
+<div class="bot-left">
+<div class="title-container">
+<i class="icon">&nbsp;</i>
+<h4>更多精彩内容</h4>
+</div>
+<div class="qrcode-container clearfix">
+<div class="img-container">
+<img src="//gss0.bdstatic.com/5foIcy0a2gI2n2jgoY3K/static/fisp_static/common/img/footer/newErweima_9fa03e0.png">
+</div>
+<div class="link-container">
+<a href="http://downpack.baidu.com/baidunews_AndroidPhone_1014720b.apk" target="_blank">Android版下载</a>
+<a href="https://itunes.apple.com/cn/app/id482820737" target="_blank">iPhone版下载</a>
+</div>
+<p class="info">扫描二维码, 收看更多新闻</p>
+</div>
+</div>
+<div class="bot-right">
+<div class="title-container">
+<i class="icon">&nbsp;</i>
+<h4>百度新闻独家出品</h4>
+</div>
+<ol>
+<li>1. 新闻由机器选取每5分钟自动更新</li>
+<li>2. 百度新闻搜索源于互联网新闻网站和频道，系统自动分类排序</li>
+<li>3. 百度不刊登或转载任何完整的新闻内容
